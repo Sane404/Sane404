@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sane404
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Angular & Firebase
+- 🌱 I’m currently learning Angular & Firebase % React
 - 📫 How to reach me Sane9@i.ua
 
 <!---
